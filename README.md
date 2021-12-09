@@ -1,2 +1,3 @@
 # MachineLearning
 this is for the learning purposes only. Wrote the code and now trying to get handle of how to use git :)
+The codes here are the ones I wrote when I learned the machine Learning in Harvard X. You can these if you need, but please keep in mind that these are just study materials and not perfect. yet .....
